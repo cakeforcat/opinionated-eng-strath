@@ -51,4 +51,3 @@ check out the `/{version}/template` directory
 ```
 # Example Title Page
 ![Template Title Page](./preview.svg)
-<img src="./preview.svg">
