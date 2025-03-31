@@ -3,7 +3,9 @@ A 2in1 template for typical reports that an engineering degree at University of 
 
 ## Installing Local packages
 For local use only right now. Tinymist and VSCode is recommended. Store the package here:
+
 `{data-dir}/typst/packages/local/opinionated-eng-strath/{version}`
+
 locally on your system. Here, `{data-dir}` is
 
 - `$XDG_DATA_HOME` or `~/.local/share` on Linux (if you installed vscode and tinymist using snap or flatpack, make sure to find the apps home sanbox)
