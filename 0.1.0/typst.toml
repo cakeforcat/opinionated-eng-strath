@@ -1,0 +1,11 @@
+[package]
+name = "opinionated-eng-strath"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["cakeforcat <@cakeforcat>"]
+license = "MIT-0"
+description = "A 2in1 template for typical reports that an engineering degree at University of Strathclyde requires."
+
+[template]
+path = "template"
+entrypoint = "main.typ"
