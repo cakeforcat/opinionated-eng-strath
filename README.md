@@ -49,3 +49,6 @@ check out the `/{version}/template` directory
   compact: false
 )
 ```
+# Example Title Page
+![Template Title Page](./preview.svg)
+<img src="./preview.svg">
